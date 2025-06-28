@@ -3,4 +3,8 @@ This is a website that uses pandas, streamlit, plotly express and mtplotlib to s
 
 
 
-## running locally 
+## running locally (example commands are for Linux)
+
+1. Get a python virtual enviorment set up. Linux example using virtual env `virtualenv --python=3.11 .venv && source .venv/bin/activate`
+2. Install the project dependecies `pip install .`
+3. Run Project `streamlit run app.py`

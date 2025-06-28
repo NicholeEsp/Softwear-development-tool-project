@@ -1,5 +1,6 @@
 [project]
-name = "software development tool project"
+name = "software_development_tool_project"
+version = "0.0.1"
 
 dependencies = [
     "pandas",
