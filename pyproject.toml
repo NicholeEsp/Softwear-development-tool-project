@@ -1,0 +1,14 @@
+[project]
+name = "software development tool project"
+
+dependencies = [
+    "pandas",
+    "streamlit",
+    "plotly.express",
+    "altair",
+    "jupyter",
+    "plotly-express",
+    "matplotlib",
+    "numpy"
+    
+]
