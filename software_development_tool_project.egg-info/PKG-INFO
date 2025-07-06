@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: software_development_tool_project
+Version: 0.0.1
+Requires-Dist: pandas
+Requires-Dist: streamlit
+Requires-Dist: plotly.express
+Requires-Dist: altair
+Requires-Dist: jupyter
+Requires-Dist: plotly-express
+Requires-Dist: matplotlib
+Requires-Dist: numpy
